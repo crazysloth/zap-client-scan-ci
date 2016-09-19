@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import time
-from pprint import pprint
 from zapv2 import ZAPv2
 import argparse
 import re
